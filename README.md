@@ -7,7 +7,7 @@
 Using **Python >= 3.6**:
 
 ```bash
-pip install -e git+https://github.com/tomquirk/realestate-com-au-api.git#egg=realestate_com_au_api
+pip install -e git+https://github.com/rezaa1/realestate-com-au-api.git#egg=realestate_com_au_api
 ```
 
 ### Example usage
